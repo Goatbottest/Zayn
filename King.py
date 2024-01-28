@@ -47,9 +47,9 @@ logo= f'''\033[1;97m
      d88P   Y88b     888     d8888888888 
      
 \033[1;97m---------------------------------------------------
- \033[1;97m[\033[1;92m•\033[1;97m] Author   : Muhammad Younis
- \033[1;97m[\033[1;92m•\033[1;97m] Facebook : https://facebook.com/xyzhackers
- \033[1;97m[\033[1;92m•\033[1;97m] GitHub   : https://github.com/YounisXyz
+ \033[1;97m[\033[1;92m•\033[1;97m] Author   : Jay
+ \033[1;97m[\033[1;92m•\033[1;97m] Facebook : https://www.facebook.com/profile.php?id=61550037082227
+ \033[1;97m[\033[1;92m•\033[1;97m] GitHub   : https://github.com/goatbottest
  \033[1;97m[\033[1;92m•\033[1;97m] Version  : \033[1;92m0.1
 \033[1;97m---------------------------------------------------
 '''
