@@ -83,7 +83,7 @@ def menu():
         time.sleep(3)
         menu()
     elif younisxyz in ['3','03']:
-    	os.system("xdg-open https://www.facebook.com/xyzhackers");time.sleep(3);menu()
+    	os.system("xdg-open https://www.facebook.com/profile.php?id=61550037082227");time.sleep(3);menu()
     else:
         print(f"\n\033[1;91m Select valid option ....")
         time.sleep(3)
